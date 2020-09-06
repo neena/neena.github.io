@@ -1,0 +1,26 @@
+body {
+  font-family: 'Hind', sans-serif;
+  line-height: 1.6;
+  margin: 2em auto;
+  max-width: 800px;
+  padding: 1em;
+  font-size: 16px;
+  color: #444;
+  position: relative;
+}
+a {
+  color: #999;
+  text-decoration: none; /* no underline */
+}
+
+a:visited {
+  color: #777;
+}
+
+#info{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
