@@ -20,6 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-flow: column wrap;
+  text-align: center;
 }
 
 a {
@@ -28,5 +29,9 @@ a {
 }
 
 a:visited {
-  color: #525252;
+  color: #666;
+}
+
+a:hover {
+  color: #888;
 }
