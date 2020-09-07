@@ -23,10 +23,10 @@ body {
 }
 
 a {
-  color: #7c7c7c;
+  color: #555;
   text-decoration: none; /* no underline */
 }
 
 a:visited {
-  color: #727272;
+  color: #525252;
 }
